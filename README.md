@@ -4,7 +4,7 @@ This microservice is powered by Python sockets to receive generic socket request
 The microservice will return that password string through a Python socket.
 
 ### How to request:
-Write/build a Python socket client to send a generic request to the server (content doesn't matter, any request will suffice).
+Write/build a Python socket client to send a generic request to the server (content doesn't matter, any socket request will suffice).
 
 ### Example Call:
 ```
