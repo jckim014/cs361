@@ -19,5 +19,6 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 A message in string format will be returned from the socket server. The above code demonstrates how to receive the request - the password variable is a string.
 
 ### UML Diagram
-![image](https://github.com/jckim014/cs361/assets/76502137/6e862e07-4b9e-468a-bf4e-439e3ab350b7)
+![image](https://github.com/jckim014/cs361/assets/76502137/c6c9f8a1-6527-4b82-a13f-cd116aa17327)
+
 
